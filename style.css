@@ -1,0 +1,56 @@
+.first1{
+     opacity: 0.8;
+     background: rgb(44, 45, 45); /* Цвет фона */
+     padding: 5px; /* Поля вокруг текста */
+     margin-bottom:20px;
+}
+body {
+    background-image:url(forest.jpg);
+    background-attachment: fixed;
+}
+.back1{
+    background:rgb(53, 54, 54);
+}
+.margin1{
+    margin:20px;
+    color: #C0C0C0
+
+}
+.back2{
+    background:rgb(73, 74, 74)
+}
+.back3{
+    background: rgb(73, 74, 74);
+    margin-left:241px;
+    margin-right:241px;
+}
+.back4{
+    background: rgb(73, 74, 74);
+    margin-left:241px;
+    margin-right:241px;
+    margin-bottom:20px;
+}
+.back5{
+    background: rgb(73, 74, 74);
+    margin-left:241px;
+    margin-right:241px;
+    margin-bottom:20px;
+}
+.back6{
+    background: rgb(73, 74, 74);
+    margin-left:241px;
+    margin-right:241px;
+}
+.square {
+    height: 482px;
+    width: 1037px;
+    background-color:rgb(53, 54, 54);
+    margin-bottom:20px;
+    margin-left:241px;
+    margin-right:241px;
+}
+.end{
+    background: gray;
+    margin-left:241px;
+    margin-right:241px;
+}
