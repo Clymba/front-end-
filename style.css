@@ -1,56 +1,110 @@
 .first1{
-     opacity: 0.8;
-     background: rgb(44, 45, 45); /* Цвет фона */
-     padding: 5px; /* Поля вокруг текста */
-     margin-bottom:20px;
+    opacity: 0.8;
+
+    padding: 5px; /* Поля вокруг текста */
+    margin:280px 0px 280px 0px;
+    
 }
 body {
-    background-image:url(forest.jpg);
-    background-attachment: fixed;
+   background-image:url(forest.jpg);
+   background-attachment: fixed;
+   font-family: Arial;
+	padding: 0px;
+
+
 }
 .back1{
-    background:rgb(53, 54, 54);
+   background:rgb(53, 54, 54);
+   opacity: 0.9;
+   border-radius: 0px 0px 20px 20px;
+
 }
 .margin1{
-    margin:20px;
-    color: #C0C0C0
+   margin:20px;
+   color: #C0C0C0
 
 }
 .back2{
-    background:rgb(73, 74, 74)
+   background:rgb(53, 54, 54);
+   margin-left: 20px;
+
+
+   
 }
+
 .back3{
-    background: rgb(73, 74, 74);
-    margin-left:241px;
-    margin-right:241px;
+   background: rgb(73, 74, 74);
+   max-width: 1280px;
+   margin: auto;
+   border-radius: 10px 10px 0px 0px;
 }
 .back4{
-    background: rgb(73, 74, 74);
-    margin-left:241px;
-    margin-right:241px;
-    margin-bottom:20px;
+   background: rgb(73, 74, 74);
+   max-width: 1280px;
+   margin: auto;
+   margin-bottom:20px;
 }
 .back5{
-    background: rgb(73, 74, 74);
-    margin-left:241px;
-    margin-right:241px;
-    margin-bottom:20px;
+   background: rgb(73, 74, 74);
+   max-width: 1280px;
+   margin: auto;
+   margin-bottom:20px;
 }
 .back6{
-    background: rgb(73, 74, 74);
-    margin-left:241px;
-    margin-right:241px;
+   background: rgb(73, 74, 74);
+   max-width: 1280px;
+   margin: auto;
 }
+.backgrond1{
+   background-color:rgb(53, 54, 54)
+}
+
 .square {
-    height: 482px;
-    width: 1037px;
-    background-color:rgb(53, 54, 54);
-    margin-bottom:20px;
-    margin-left:241px;
-    margin-right:241px;
+   height: 482px;
+   width: 1037px;
+   background-color:rgb(53, 54, 54);
+   max-width: 1280px;
+   margin: auto;
+   margin-bottom:20px;
+}
+.end1{
+   background: gray;
+   margin-left:241px;
+   margin-right:241px;
+}
+.col-fourth{
+	width:23.50%;
+}
+.col-fourth{
+	position: relative;
+	display: inline-block;
+	margin-bottom: 40px;
+	margin-left:10px
 }
 .end{
-    background: gray;
-    margin-left:241px;
-    margin-right:241px;
+	margin-right: 0 !important;
+}
+.wrapper{
+	width: 1200px;
+	margin: 100px auto;
+	position: relative;
+   text-align: center;
+}
+.counter{
+	background: #ffff;
+	padding: 30px 0;
+	border-radius: 5px;
+}
+.count-text{
+	font-size: 13px;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: 0;
+	text-align: center;
+}
+.fa-2x{
+	margin: 0 auto;
+	float: none;
+	display: table;
+	color: #4ad1e5;
 }
